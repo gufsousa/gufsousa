@@ -36,8 +36,8 @@ Sou um profissional apaixonado por unir o mundo da automação industrial com te
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=dracula"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=gufsousa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gufsousa&layout=compact&theme=dracula"/>
 </div>
 
 ---
