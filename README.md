@@ -6,7 +6,7 @@ Sou um profissional apaixonado por unir o mundo da automação industrial com te
 
 ### 🔭 O que estou fazendo agora:
 - 🎓 Mestrando no Programa de Pós-Graduação em Engenharia de Automação e Sistemas (PPGEAS) na UFSC.
-- 💼 Pesquisador e Desenvolvedor em P&D na WEG, atuando com plataformas de Inteligência de Mercado utilizando IA.
+- 💼 Pesquisador e Desenvolvedor em P&D utilizando IA.
 - 📝 Publicando pesquisas sobre criptografia baseada em eventos em CLPs legados.
 - ⚙️ Explorando integrações avançadas com Neuro-Symbolic AI, GNNs, LLMs e arquiteturas RAG.
 
